@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+*.pyo
+.env
+.venv
+.envrc
+.DS_Store
+.ipynb_checkpoints/
+*.drawio.bak
+*.log
+dist/
+build/
+docs/site/.jekyll-cache/
