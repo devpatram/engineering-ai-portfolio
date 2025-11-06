@@ -1,4 +1,4 @@
-# AI-ML Labs
+# Compliance-Automation
 _Placeholder README to allow site build._
 
 Full content coming soon.
