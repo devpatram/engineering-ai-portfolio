@@ -17,11 +17,11 @@ This portfolio showcases how I combine **telecom-power systems expertise** with 
 
 ## 🚀 Featured Projects
 
-- [**AICoPilot**](/engineering-ai-portfolio/AICoPilot)
-- [**WeeklyStatusGem**](/engineering-ai-portfolio/WeeklyStatusGem)
-- [**Compliance-Automation**](/engineering-ai-portfolio/Compliance-Automation)
-- [**PowerOptimization**](/engineering-ai-portfolio/PowerOptimization)
-- [**AI-ML-Labs**](/engineering-ai-portfolio/AI-ML-Labs)
+- [**AICoPilot**](../AICoPilot/README.md) — AI compliance and proposal co-pilot *(prompting + Python automation)*
+- [**WeeklyStatusGem**](../WeeklyStatusGem/README.md) — Generates weekly reports from calendar events
+- [**Compliance-Automation**](../Compliance-Automation/README.md) — Policy & control mapping tools
+- [**PowerOptimization**](../PowerOptimization/README.md) — Energy efficiency & reliability for telecom sites
+- [**AI-ML-Labs**](../AI-ML-Labs/README.md) — ML experiments and doctoral research in progress
 
 ---
 
