@@ -1,1 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>{{ page.title }} | Dev V. Patram Portfolio</title>
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+  <style>
+    body { font-family: "Segoe UI", sans-serif; margin: 40px; }
+    nav { text-align: center; margin-bottom: 30px; }
+    nav a {
+      margin: 0 15px;
+      text-decoration: none;
+      font-weight: 600;
+      color: #0044cc;
+    }
+    nav a:hover { text-decoration: underline; }
+    hr { margin-top: 20px; margin-bottom: 40px; }
+  </style>
+</head>
+<body>
+  <nav>
+    <a href="{{ '/' | relative_url }}">🏠 Home</a>
+    <a href="{{ '/engineering-ai-portfolio/' | relative_url }}">Projects</a>
+    <a href="mailto:devpatram@gmail.com">Contact</a>
+  </nav>
+  <hr>
+  <main>
+    {{ content }}
+  </main>
+</body>
+</html>
 
