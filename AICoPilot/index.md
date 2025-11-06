@@ -7,7 +7,8 @@ layout: default
 
 This page renders the same content as the main AICoPilot README.
 
-{% include_relative ../../AICoPilot/README.md %}
+{% include_relative README.md %}
+
 
 ---
 
