@@ -1,51 +1,53 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devpatram/devpatram/main/Banner.png" alt="Dev V. Patram — Engineering + AI Innovation" width="100%">
+</p>
+
+<h2 align="center">Engineering × AI | Turning Complex Systems into Intelligent Solutions</h2>
+
+---
+
 # Dev V. Patram — Engineering, AI & Solutions Portfolio
 
-This repository is a **starter portfolio** you can upload to GitHub as a single monorepo or split into multiple repos. It showcases:
-- AI/automation assistants (Gems), Python utilities, and ML experiments
-- Enterprise-scale systems & compliance automation
-- Power systems engineering and solution architecture artifacts
+Welcome! I'm **Dev V. Patram**, a Senior Electrical & Solutions Engineer and **Doctor of Engineering (AI & Machine Learning) Candidate** at The George Washington University.  
+This portfolio highlights my work bridging **telecom-power systems, automation, and intelligent design**, with hands-on projects in **AI, ML, and engineering optimization.**
 
-**Contact:** devpatram@gmail.com • [LinkedIn](https://www.linkedin.com/in/dev-patram)
+📫 **Contact:** [devpatram@gmail.com](mailto:devpatram@gmail.com) • [LinkedIn](https://www.linkedin.com/in/dev-patram)
 
 ---
 
-## Structure
+### ⚡ AI & Engineering Focus Areas
 
-- `AICoPilot/` – AI compliance & proposal co-pilot (prompting + Python scaffolding)
-- `WeeklyStatusGem/` – Generates weekly status reports from calendar exports
-- `Compliance-Automation/` – Templates for policy mapping, RACI, and SOC-style controls
-- `PowerOptimization/` – Telecom/power engineering artifacts, diagrams, and narratives
-- `AI-ML-Labs/` – ML labs & experiments (to be expanded during GWU D.Eng.)
-
-> Tip: You can keep this as a **monorepo** or create **one repo per folder**. See **Setup** below.
+- **AI-Driven Automation:** Designing intelligent assistants that streamline compliance, reporting, and engineering workflows.  
+- **Telecom & Power Systems Optimization:** Building energy-efficient network designs and reliability models for nationwide deployments.  
+- **Data Engineering & Machine Learning:** Developing Python pipelines, ML models, and transformer-based analytics for predictive insights.  
+- **Systems Integration & Scalability:** Applying AI principles to real-world engineering systems with focus on sustainability and resilience.  
+- **Leadership & Technical Enablement:** 20 years of telecom engineering experience mentoring cross-functional technical teams.
 
 ---
 
-## Quick Start
+### 🚀 Featured Projects
 
-1. Create a new GitHub repo (public or private), e.g. `portfolio`.
-2. Upload the contents of this folder.
-3. Update each `README.md` with **specifics** (metrics, dates, screenshots, redacted docs).
-4. If you want a simple site, enable **GitHub Pages** with the `docs/site` folder.
-
-```bash
-git init
-git add .
-git commit -m "Initial portfolio"
-git branch -M main
-git remote add origin https://github.com/<your-username>/<your-repo>.git
-git push -u origin main
-```
+- **AICoPilot/** — AI compliance and proposal co-pilot *(prompting + Python automation)*  
+- **WeeklyStatusGem/** — Generates weekly status reports from calendar exports  
+- **Compliance-Automation/** — Templates for policy mapping, RACI, and SOC-style controls  
+- **PowerOptimization/** — Energy efficiency & reliability analysis for telecom networks  
+- **AI-ML-Labs/** — ML labs & experiments (expanding during GWU D.Eng. program)
 
 ---
 
-## What Hiring Teams Look For
-
-- **Evidence**: working code, prompts, notebooks, diagrams
-- **Clarity**: problem statements, architecture, and outcomes
-- **Impact**: metrics, scale, reliability, compliance improvements
-- **Communication**: READMEs that explain the why/how/what
+### 💼 What Hiring Teams Appreciate
+| Focus | Description |
+|-------|--------------|
+| **Evidence** | Working code, documentation, and diagrams demonstrating real results |
+| **Clarity** | Well-defined problems, architectures, and concise READMEs |
+| **Impact** | Performance gains, power savings, or compliance automation outcomes |
+| **Communication** | Clear documentation that conveys *why, how,* and *what* |
 
 ---
 
-_Last updated: 2025-11-06_
+### ⚙️ Languages & Tools
+Python • MATLAB • AutoCAD • TensorFlow • Keras • Scikit-learn • GitHub Actions • Draw.io • Power Systems Design
+
+---
+
+*Last updated: November 2025*
