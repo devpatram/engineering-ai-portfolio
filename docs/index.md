@@ -14,14 +14,14 @@ I’m **Dev V. Patram**, a Senior Electrical & Solutions Engineer and Doctor of 
 This portfolio showcases how I combine **telecom-power systems expertise** with **AI-driven design** to build energy-efficient, reliable, and intelligent engineering solutions.
 
 ---
-
 ## 🚀 Featured Projects
 
-- [**AICoPilot**](AICoPilot/)
-- [**WeeklyStatusGem**](WeeklyStatusGem/)
-- [**Compliance-Automation**](Compliance-Automation/)
-- [**PowerOptimization**](PowerOptimization/)
-- [**AI-ML-Labs**](AI-ML-Labs/)
+- [**AICoPilot**](AICoPilot/) — AI compliance and proposal co-pilot  
+- [**WeeklyStatusGem**](WeeklyStatusGem/) — Generates weekly reports from calendar events  
+- [**Compliance-Automation**](Compliance-Automation/) — Policy & control mapping tools  
+- [**PowerOptimization**](PowerOptimization/) — Energy efficiency & reliability for telecom sites  
+- [**AI-ML-Labs**](AI-ML-Labs/) — ML experiments and doctoral research in progress
+
 
 ---
 
