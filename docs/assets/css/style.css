@@ -1,1 +1,68 @@
+/* === Global Styles === */
+body {
+  font-family: "Segoe UI", Roboto, Arial, sans-serif;
+  background-color: #ffffff;
+  color: #111111;
+  margin: 0 auto;
+  max-width: 1000px;
+  padding: 2rem;
+  line-height: 1.6;
+}
+
+/* === Top Navigation === */
+nav {
+  text-align: center;
+  background-color: #001f3f; /* Deep navy */
+  padding: 15px 0;
+  border-radius: 10px;
+  margin-bottom: 2rem;
+}
+
+nav a {
+  color: #ffffff;
+  font-weight: 600;
+  margin: 0 15px;
+  text-decoration: none;
+  letter-spacing: 0.4px;
+  transition: color 0.2s ease-in-out;
+}
+
+nav a:hover {
+  color: #ffcc00; /* Golden hover accent */
+  text-decoration: underline;
+}
+
+/* === Headings === */
+h1, h2, h3, h4 {
+  color: #001f3f;
+  font-weight: 700;
+}
+
+/* === Links === */
+a {
+  color: #0044cc;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* === Code and Artifacts === */
+code, pre {
+  background-color: #f4f6f9;
+  padding: 0.3rem 0.5rem;
+  border-radius: 6px;
+  font-size: 0.95em;
+}
+
+/* === Footer === */
+footer {
+  text-align: center;
+  color: #555;
+  font-size: 0.9rem;
+  margin-top: 3rem;
+  border-top: 1px solid #ccc;
+  padding-top: 1rem;
+}
 
