@@ -17,11 +17,11 @@ This portfolio showcases how I combine **telecom-power systems expertise** with 
 
 ## 🚀 Featured Projects
 
-- [**AICoPilot**](../AICoPilot/README.md) — AI compliance and proposal co-pilot *(prompting + Python automation)*
-- [**WeeklyStatusGem**](../WeeklyStatusGem/README.md) — Generates weekly reports from calendar events
-- [**Compliance-Automation**](../Compliance-Automation/README.md) — Policy & control mapping tools
-- [**PowerOptimization**](../PowerOptimization/README.md) — Energy efficiency & reliability for telecom sites
-- [**AI-ML-Labs**](../AI-ML-Labs/README.md) — ML experiments and doctoral research in progress
+- [**AICoPilot**](https://devpatram.github.io/engineering-ai-portfolio/AICoPilot/) — AI compliance and proposal co-pilot *(prompting + Python automation)*
+- [**WeeklyStatusGem**](https://devpatram.github.io/engineering-ai-portfolio/WeeklyStatusGem/) — Generates weekly reports from calendar events
+- [**Compliance-Automation**](https://devpatram.github.io/engineering-ai-portfolio/Compliance-Automation/) — Policy & control mapping tools
+- [**PowerOptimization**](https://devpatram.github.io/engineering-ai-portfolio/PowerOptimization/) — Energy efficiency & reliability for telecom sites
+- [**AI-ML-Labs**](https://devpatram.github.io/engineering-ai-portfolio/AI-ML-Labs/) — ML experiments and doctoral research in progress
 
 ---
 
