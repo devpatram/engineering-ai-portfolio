@@ -1,13 +1,19 @@
 theme: minima
+baseurl: "/engineering-ai-portfolio"
+url: "https://devpatram.github.io"
+
 markdown: kramdown
+
 include:
   - AICoPilot
   - WeeklyStatusGem
   - Compliance-Automation
   - PowerOptimization
   - AI-ML-Labs
+
 plugins:
   - jekyll-relative-links
+
 relative_links:
   enabled: true
   collections: true
