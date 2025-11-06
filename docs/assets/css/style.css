@@ -11,34 +11,51 @@ body {
 
 /* === Top Navigation === */
 nav {
-  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
   background-color: #001f3f; /* Deep navy */
-  padding: 15px 0;
-  border-radius: 10px;
+  padding: 14px 0;
+  border-radius: 12px;
   margin-bottom: 2rem;
+  flex-wrap: wrap;
+  position: relative;
 }
 
+/* Left-aligned brand initials or logo */
+nav .brand {
+  position: absolute;
+  left: 20px;
+  font-weight: 700;
+  font-size: 1.1rem;
+  color: #ffffff;
+  letter-spacing: 0.5px;
+}
+
+/* Nav links */
 nav a {
   color: #ffffff;
   font-weight: 600;
   margin: 0 15px;
   text-decoration: none;
   letter-spacing: 0.4px;
-  transition: color 0.2s ease-in-out;
+  transition: color 0.2s ease-in-out, transform 0.2s ease-in-out;
 }
 
 nav a:hover {
   color: #ffcc00; /* Golden hover accent */
   text-decoration: underline;
+  transform: translateY(-2px);
 }
 
 /* === Headings === */
 h1, h2, h3, h4 {
   color: #001f3f;
   font-weight: 700;
+  line-height: 1.3;
 }
 
-/* === Links === */
+/* === Links (outside of nav) === */
 a {
   color: #0044cc;
   text-decoration: none;
@@ -54,6 +71,7 @@ code, pre {
   padding: 0.3rem 0.5rem;
   border-radius: 6px;
   font-size: 0.95em;
+  font-family: Consolas, "Courier New", monospace;
 }
 
 /* === Footer === */
@@ -65,4 +83,40 @@ footer {
   border-top: 1px solid #ccc;
   padding-top: 1rem;
 }
+
+/* === Buttons / Back Links === */
+a.back-link {
+  display: inline-block;
+  margin-top: 2rem;
+  font-weight: 500;
+  color: #0044cc;
+  transition: color 0.2s ease;
+}
+
+a.back-link:hover {
+  color: #ffcc00;
+}
+
+/* === Responsive Tweaks === */
+@media (max-width: 768px) {
+  body {
+    padding: 1.2rem;
+  }
+
+  nav {
+    flex-direction: column;
+    padding: 10px 0;
+  }
+
+  nav .brand {
+    position: static;
+    margin-bottom: 10px;
+  }
+
+  nav a {
+    margin: 8px;
+    display: inline-block;
+  }
+}
+
 
