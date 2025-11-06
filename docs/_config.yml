@@ -1,9 +1,13 @@
 theme: minima
-
+title: Dev V. Patram Portfolio
+description: Engineering × AI | Intelligent Systems & Power Optimization
 url: "https://devpatram.github.io"
 baseurl: "/engineering-ai-portfolio"
 
 markdown: kramdown
+
+# Disable Minima’s automatic top links
+header_pages: []
 
 include:
   - AICoPilot
