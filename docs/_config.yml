@@ -1,0 +1,13 @@
+theme: minima
+markdown: kramdown
+include:
+  - AICoPilot
+  - WeeklyStatusGem
+  - Compliance-Automation
+  - PowerOptimization
+  - AI-ML-Labs
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
