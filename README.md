@@ -50,4 +50,34 @@ Python • MATLAB • AutoCAD • TensorFlow • Keras • Scikit-learn • GitH
 
 ---
 
+### 🌐 Connect with Me
+
+<p align="center">
+  <a href="mailto:devpatram@gmail.com"><img src="https://img.shields.io/badge/Email-devpatram%40gmail.com-blue?style=for-the-badge&logo=gmail"></a>
+  <a href="https://www.linkedin.com/in/dev-patram"><img src="https://img.shields.io/badge/LinkedIn-Dev%20V.%20Patram-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://github.com/devpatram"><img src="https://img.shields.io/badge/GitHub-devpatram-black?style=for-the-badge&logo=github"></a>
+</p>
+
+---
+
+### 📊 GitHub Overview
+
+<p align="center">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=devpatram&show_icons=true&theme=default"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devpatram&layout=compact&theme=default"/>
+</p>
+
+---
+
+<p align="center">
+  <sub>🧠 Built by <b>Dev V. Patram</b> • Senior Electrical & Solutions Engineer | Doctor of Engineering (AI & Machine Learning) Candidate</sub>  
+</p>
+
+<p align="center">
+  <sub>Last updated: November 2025</sub>
+</p>
+
+
+---
+
 *Last updated: November 2025*
