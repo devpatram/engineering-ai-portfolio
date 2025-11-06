@@ -1,6 +1,6 @@
 theme: minima
-baseurl: "/engineering-ai-portfolio"
 url: "https://devpatram.github.io"
+baseurl: "/engineering-ai-portfolio"
 
 markdown: kramdown
 
